@@ -1,0 +1,6 @@
+{
+  "name": "Shri Mahavir Yuva Club Chauriya",
+  "description": "Official application for Shri Mahavir Yuva Club, Chauriya containing memberships, guidelines, and notices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
